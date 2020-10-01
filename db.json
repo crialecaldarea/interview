@@ -6,7 +6,10 @@
 		"lastName": "Richardson",
 		"phone": "+4 (952) 555-3857",
 		"address": "609 Brigham Street, Allensworth, Missouri, 5813",
-		"email": "charmaine.richardson@endipin.com"
+		"email": "charmaine.richardson@endipin.com",
+		"roles": [
+			"automationTester"
+		]
 	},
   	{
 		"id": 2,
@@ -14,7 +17,10 @@
 		"lastName": "Mccoy",
 		"phone": "+4 (864) 600-2080",
 		"address": "497 Monitor Street, Urbana, Oklahoma, 4313",
-		"email": "lyons.mccoy@sybixtex.com"
+		"email": "lyons.mccoy@sybixtex.com",
+		"roles": [
+			"developer"
+		]
   	},
   	{
 		"id": 3,
@@ -22,7 +28,11 @@
 		"lastName": "Melton",
 		"phone": "+4 (980) 452-3197",
 		"address": "306 Arion Place, Hillsboro, Wyoming, 8849",
-		"email": "dorthy.melton@centrexin.com"
+		"email": "dorthy.melton@centrexin.com",
+		"roles": [
+			"manualTester",
+			"automationTester"
+		]
  	},
   	{
 		"id": 4,
@@ -30,7 +40,11 @@
 		"lastName": "Jarvis",
 		"phone": "+4 (855) 570-2000",
 		"address": "708 Cortelyou Road, Cartwright, North Dakota, 2569",
-		"email": "geneva.jarvis@kyaguru.com"
+		"email": "geneva.jarvis@kyaguru.com",
+		"roles": [
+			"developer",
+			"teamLeader"
+		]
   	},
   	{
 		"id": 5,
@@ -38,7 +52,10 @@
 		"lastName": "Roach",
 		"phone": "+4 (896) 434-3726",
 		"address": "747 Cove Lane, Zarephath, Utah, 8338",
-		"email": "rollins.roach@overfork.com"
+		"email": "rollins.roach@overfork.com",
+		"roles": [
+			"developer"
+		]
   	},
   	{
 		"id": 6,
@@ -62,7 +79,10 @@
 		"lastName": "Horton",
 		"phone": "+4 (989) 437-2505",
 		"address": "573 Martense Street, Crawfordsville, Virgin Islands, 8040",
-		"email": "hurst.horton@lyria.com"
+		"email": "hurst.horton@lyria.com",
+		"roles": [
+			"healthAndSafetySpecialist"
+		]
   	},
   	{
 		"id": 9,
@@ -70,7 +90,11 @@
 		"lastName": "Bond",
 		"phone": "+4 (966) 529-2041",
 		"address": "352 Surf Avenue, Crumpler, Massachusetts, 9831",
-		"email": "duke.bond@arctiq.com"
+		"email": "duke.bond@arctiq.com",
+		"roles": [
+			"hrBusinessPartner",
+			"hrCoordinator"
+		]
   	},
   	{
 		"id": 10,
@@ -86,7 +110,10 @@
 		"lastName": "Sherman",
 		"phone": "+4 (997) 459-2573",
 		"address": "276 Conklin Avenue, Franklin, Alaska, 6517",
-		"email": "boyd.sherman@geekol.com"
+		"email": "boyd.sherman@geekol.com",
+		"roles": [
+			"scrumMaster"
+		]
   	},
   	{
 		"id": 12,
