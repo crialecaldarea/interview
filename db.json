@@ -1,6 +1,6 @@
 {
   "employees": [
-     {
+  {
     "id": 1,
     "firstName": "Charmaine",
     "lastName": "Richardson",
@@ -113,58 +113,51 @@
     "email": "mckenny.john@lengiy.com"
   }
   ],
-  "teams": [
-    {
+  "permissions": [
+  {
     "id": 1,
-    "name": "HR",
-    "teamLeader": 3,
-    "members": [
-      3,
-      7
-    ]
+    "displayName": "Pull from Git",
+	  "application": "Bitbucket"
   },
-  {
+	{
     "id": 2,
-    "name": "Project Alpha",
-    "teamLeader": 5,
-    "members": [
-      2,
-      5,
-      6,
-      9,
-      11
-    ]
+    "displayName": "Push in Git",
+	  "application": "Bitbucket"
   },
-  {
+	{
     "id": 3,
-    "name": "Marketing",
-    "teamLeader": 12,
-    "members": [
-      4,
-      12
-    ]
+    "displayName": "Change Git settings",
+	  "application": "Bitbucket"
   },
   {
     "id": 4,
-    "name": "Board of Directors",
-    "teamLeader": 1,
-    "members": [
-      1,
-      3,
-      10,
-      14
-    ]
+    "displayName": "View Jira Backlog",
+	  "application": "Jira"
+  },
+	{
+    "id": 5,
+    "displayName": "Report Bug",
+	  "application": "Jira"
+  },
+	{
+    "id": 6,
+    "displayName": "Add User Story",
+	  "application": "Jira"
+  },
+	{
+    "id": 7,
+    "displayName": "Change Sprint Setup",
+	  "application": "Jira"
   },
   {
-    "id": 5,
-    "name": "R&D Team",
-    "teamLeader": 14,
-    "members": [
-      6,
-      8,
-      13,
-      14
-    ]
+    "id": 8,
+    "displayName": "Add timesheet",
+	  "application": "Internal"
+  },
+  {
+    "id": 9,
+    "displayName": "View timesheet of other employees",
+	  "application": "Internal"
   }
   ]
 }
