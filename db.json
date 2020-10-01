@@ -30,7 +30,7 @@
 		"lastName": "Jarvis",
 		"phone": "+4 (855) 570-2000",
 		"address": "708 Cortelyou Road, Cartwright, North Dakota, 2569",
-    	"email": "geneva.jarvis@kyaguru.com"
+		"email": "geneva.jarvis@kyaguru.com"
   	},
   	{
 		"id": 5,
@@ -159,5 +159,98 @@
 		"displayName": "View timesheet of other employees",
 	  	"application": "Internal"
   	}
-  ]
+  	],
+	"roles": [
+	{
+		"id": "employee",
+		"displayName": "Employee",
+		"permissions": [
+			8
+		]
+    },
+    {
+		"id": "automationTester",
+		"displayName": "Automation Tester",
+		"permissions": [
+			1,
+			4,
+			5
+		]
+    },
+	{
+		"id": "manualTester",
+		"displayName": "Manual Tester",
+		"permissions": [
+			1,
+			4,
+			5
+		]
+    },
+	{
+		"id": "devOps",
+		"displayName": "DevOps Engineer",
+		"permissions": [
+			1,
+			2,
+			3
+		]
+    },
+    {
+		"id": "developer",
+		"displayName": "Application Developer",
+		"permissions": [
+			1,
+			2,
+			4,
+			5,
+			6
+		]
+    },
+    {
+		"id": "teamLeader",
+		"displayName": "Team Leader",
+		"permissions": [
+		]
+    },
+	{
+		"id": "productOwner",
+		"displayName": "Product Owner",
+		"permissions": [
+			4,
+			5,
+			6,
+			7
+		]
+    },
+	{
+		"id": "scrumMaster",
+		"displayName": "Scrum Master",
+		"permissions": [
+			4,
+			5,
+			6,
+			7
+		]
+    },
+	{
+		"id": "healthAndSafetySpecialist",
+		"displayName": "Health and Safety Specialist",
+		"permissions": [
+		]
+    },
+	{
+		"id": "hrBusinessPartner",
+		"displayName": "HR Business Partner ",
+		"permissions": [
+		]
+    },
+	{
+		"id": "hrCoordinator",
+		"displayName": "HR Coordinator",
+		"permissions": [
+			8,
+			9
+		]
+    }
+	]
 }
