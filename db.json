@@ -167,8 +167,8 @@
 		"permissions": [
 			8
 		]
-    },
-    {
+	},
+	{
 		"id": "automationTester",
 		"displayName": "Automation Tester",
 		"permissions": [
@@ -176,7 +176,7 @@
 			4,
 			5
 		]
-    },
+	},
 	{
 		"id": "manualTester",
 		"displayName": "Manual Tester",
@@ -185,7 +185,7 @@
 			4,
 			5
 		]
-    },
+	},
 	{
 		"id": "devOps",
 		"displayName": "DevOps Engineer",
@@ -194,8 +194,8 @@
 			2,
 			3
 		]
-    },
-    {
+	},
+	{
 		"id": "developer",
 		"displayName": "Application Developer",
 		"permissions": [
@@ -205,13 +205,13 @@
 			5,
 			6
 		]
-    },
-    {
+	},
+	{
 		"id": "teamLeader",
 		"displayName": "Team Leader",
 		"permissions": [
 		]
-    },
+	},
 	{
 		"id": "productOwner",
 		"displayName": "Product Owner",
@@ -221,7 +221,7 @@
 			6,
 			7
 		]
-    },
+	},
 	{
 		"id": "scrumMaster",
 		"displayName": "Scrum Master",
@@ -231,19 +231,19 @@
 			6,
 			7
 		]
-    },
+	},
 	{
 		"id": "healthAndSafetySpecialist",
 		"displayName": "Health and Safety Specialist",
 		"permissions": [
 		]
-    },
+	},
 	{
 		"id": "hrBusinessPartner",
 		"displayName": "HR Business Partner ",
 		"permissions": [
 		]
-    },
+	},
 	{
 		"id": "hrCoordinator",
 		"displayName": "HR Coordinator",
@@ -251,6 +251,6 @@
 			8,
 			9
 		]
-    }
+	}
 	]
 }
